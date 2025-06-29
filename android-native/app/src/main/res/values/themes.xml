@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.RetroCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- ... other color items ... -->
+        <item name="colorBackground">@color/bg_dark</item> <!-- This is CORRECT -->
+        <item name="colorOnBackground">@color/white</item>
+        <!-- ... other items ... -->
+    </style>
+    <!-- ... -->
+</resources>

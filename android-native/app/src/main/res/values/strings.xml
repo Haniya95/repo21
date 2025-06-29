@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Retro Calculator</string>
+    <string name="welcome_message">Welcome! Let\'s calculate some unit prices together.</string>
+    <string name="enter_quantity">Enter quantity</string>
+    <string name="enter_rate">Enter rate per unit</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="new_calculation">New Calculation</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="calculation_breakdown">Calculation Breakdown</string>
+    <string name="step_1_quantity">STEP 1: ENTER QUANTITY</string>
+    <string name="step_2_rate">STEP 2: ENTER RATE</string>
+    <string name="calculation_complete">CALCULATION COMPLETE</string>
+</resources>

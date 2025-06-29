@@ -1,0 +1,28 @@
+// settings.gradle
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+    plugins {
+        // Declare the Compose Compiler Gradle plugin
+        // Version matches Kotlin version as per documentation for "without version catalogs"
+        id 'org.jetbrains.kotlin.plugin.compose' version '2.0.0'
+
+        // You could also declare the Kotlin Android plugin version here if you prefer,
+        // but it's already handled in the project-level build.gradle's plugins block.
+        // id 'org.jetbrains.kotlin.android' version '2.0.0'
+    }
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "Retro Calculator" // Keep your actual project name if different
+include ':app'

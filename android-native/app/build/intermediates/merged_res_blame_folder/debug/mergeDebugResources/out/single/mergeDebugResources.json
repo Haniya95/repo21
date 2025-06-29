@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.retro.calculator.app-debug-70:/font_orbitron_bold.ttf.flat",
+        "source": "com.retro.calculator.app-main-72:/font/orbitron_bold.ttf"
+    },
+    {
+        "merged": "com.retro.calculator.app-debug-70:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.retro.calculator.app-main-72:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.retro.calculator.app-debug-70:/font_orbitron_black.ttf.flat",
+        "source": "com.retro.calculator.app-main-72:/font/orbitron_black.ttf"
+    },
+    {
+        "merged": "com.retro.calculator.app-debug-70:/font_russo_one_regular.ttf.flat",
+        "source": "com.retro.calculator.app-main-72:/font/russo_one_regular.ttf"
+    },
+    {
+        "merged": "com.retro.calculator.app-debug-70:/xml_data_extraction_rules.xml.flat",
+        "source": "com.retro.calculator.app-main-72:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.retro.calculator.app-debug-70:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.retro.calculator.app-main-72:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.retro.calculator.app-debug-70:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.retro.calculator.app-main-72:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.retro.calculator.app-debug-70:/font_share_tech_mono_regular.ttf.flat",
+        "source": "com.retro.calculator.app-main-72:/font/share_tech_mono_regular.ttf"
+    },
+    {
+        "merged": "com.retro.calculator.app-debug-70:/font_orbitron_regular.ttf.flat",
+        "source": "com.retro.calculator.app-main-72:/font/orbitron_regular.ttf"
+    },
+    {
+        "merged": "com.retro.calculator.app-debug-70:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.retro.calculator.app-main-72:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.retro.calculator.app-debug-70:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.retro.calculator.app-main-72:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.retro.calculator.app-debug-70:/xml_backup_rules.xml.flat",
+        "source": "com.retro.calculator.app-main-72:/xml/backup_rules.xml"
+    }
+]

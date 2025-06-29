@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#EFEFBB</color>
+    <color name="accent_dark">#DEDEAA</color>
+    <color name="bg_card">#1A1A2E</color>
+    <color name="bg_card_dark">#0F0F1D</color>
+    <color name="bg_dark">#0A0A1A</color>
+    <color name="bg_dark_dark">#050509</color>
+    <color name="black">#000000</color>
+    <color name="dark_blue">#00008B</color>
+    <color name="dark_blue_dark">#000077</color>
+    <color name="error">#EF4444</color>
+    <color name="gray">#808080</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="primary">#6B88D3</color>
+    <color name="primary_dark">#5A77C2</color>
+    <color name="success">#4ADE80</color>
+    <color name="warning">#FBBF24</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Retro Calculator</string>
+    <string name="back">Back</string>
+    <string name="calculate">Calculate</string>
+    <string name="calculation_breakdown">Calculation Breakdown</string>
+    <string name="calculation_complete">CALCULATION COMPLETE</string>
+    <string name="enter_quantity">Enter quantity</string>
+    <string name="enter_rate">Enter rate per unit</string>
+    <string name="new_calculation">New Calculation</string>
+    <string name="next">Next</string>
+    <string name="reset">Reset</string>
+    <string name="step_1_quantity">STEP 1: ENTER QUANTITY</string>
+    <string name="step_2_rate">STEP 2: ENTER RATE</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="welcome_message">Welcome! Let\'s calculate some unit prices together.</string>
+    <style name="Theme.RetroCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/primary_dark</item>
+        <item name="colorOnPrimaryContainer">@color/white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorOnSecondary">@color/dark_blue</item>
+        <item name="colorSecondaryContainer">@color/accent_dark</item>
+        <item name="colorOnSecondaryContainer">@color/dark_blue</item>
+        <item name="colorTertiary">@color/dark_blue</item>
+        <item name="colorOnTertiary">@color/white</item>
+        <item name="colorError">@color/error</item>
+        <item name="colorOnError">@color/white</item>
+        <item name="colorErrorContainer">@color/error</item>
+        <item name="colorOnErrorContainer">@color/white</item>
+        <item name="colorOutline">@color/primary</item>
+        <item name="colorSurface">@color/bg_card</item>
+        <item name="colorOnSurface">@color/white</item>
+        <item name="colorSurfaceVariant">@color/bg_dark</item>
+        <item name="colorOnSurfaceVariant">@color/white</item>
+        <item name="colorBackground">@color/bg_dark</item>
+        <item name="colorOnBackground">@color/white</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+    <style name="Theme.RetroCalculator.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.retro.calculator.app-mergeDebugResources-68:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\home\\.gradle\\caches\\8.13\\transforms\\f5ed64c20c8d3707ed686330929779c6\\transformed\\appcompat-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}
